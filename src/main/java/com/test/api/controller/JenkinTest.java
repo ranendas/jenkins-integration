@@ -13,6 +13,7 @@ public class JenkinTest {
     @GetMapping
     public String test(){
         log.info("Jenkin test successful");
+        log.debug("Jenkin test successful - 2nd time");
         return "Jenkin test successful";
     }
 }
