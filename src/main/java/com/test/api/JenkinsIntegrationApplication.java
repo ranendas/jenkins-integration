@@ -12,7 +12,7 @@ public class JenkinsIntegrationApplication {
 
 	@PostConstruct
 	public void init(){
-		System.out.println("Application started ....");
+		System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<   Application started ....");
 	}
 
 	public static void main(String[] args) {

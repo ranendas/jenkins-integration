@@ -11,7 +11,7 @@ class JenkinsIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Junit execuiting ");
+		System.out.println(" <<<<<<<<<<<<<<<<<<<<  Junit execuiting ");
 	}
 
 }
